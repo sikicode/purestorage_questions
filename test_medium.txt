@@ -1,0 +1,24 @@
+=== Section 1 ===
+This is the first section of our test file.
+It contains multiple lines with varying content.
+We'll repeat this pattern several times.
+
+=== Section 2 ===
+Here's another section with different content.
+This helps test how well our reversal functions handle
+repeated patterns and section breaks.
+
+=== Section 3 ===
+Let's add some numbers: 12345
+And special characters: !@#$%
+This will help test various content types.
+
+=== Section 4 ===
+Almost done with our test file.
+Just a few more lines to add.
+This should be enough to test memory efficiency.
+
+=== Final Section ===
+This is the end of our test file.
+It should provide good coverage for testing.
+End of medium test file.
